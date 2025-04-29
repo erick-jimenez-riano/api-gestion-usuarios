@@ -1,0 +1,1 @@
+// Contenido de ejemplo para middlewares/authMiddleware.js

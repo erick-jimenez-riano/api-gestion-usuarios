@@ -1,0 +1,1 @@
+// Contenido de ejemplo para controllers/userController.js
